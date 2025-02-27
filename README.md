@@ -16,7 +16,7 @@ I'm currently focusing on – ![NestJS](https://img.shields.io/badge/NestJS-E023
 
  - 💡 finding problems **solutions** and implementing them
  - 📖 **learning** the new things and **expanding** my skills 
- - 🏃‍♂️ **sports** in every form (I'm running 12 marathons all around the Europe in 2024)
+ - 🏃‍♂️ **sports** in every form 
  - 🏞 **travels**, especially in nature 
 
 ### 📧 Let's talk
